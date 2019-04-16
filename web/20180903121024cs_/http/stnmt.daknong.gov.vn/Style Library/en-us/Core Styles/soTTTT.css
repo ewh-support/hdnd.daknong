@@ -1509,6 +1509,7 @@ ul.ui-tabs-nav li a:hover{
 	color:#333;
 	text-decoration:none;
 }
+a{    text-decoration: none !important;}
 ul.ui-tabs-nav li.ui-tabs-selected a{
 	color:#333;
 }

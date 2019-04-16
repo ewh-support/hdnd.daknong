@@ -184,6 +184,9 @@ div.union_main_image div.Union_desc h2{
 	padding-right:10px;
 	overflow:hidden;
 }
+a{
+	text-decoration: none !important;
+}
 p.hot-content1{
 	display:block;
 	padding:8px 10px 0px 10px;

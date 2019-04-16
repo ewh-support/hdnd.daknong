@@ -40,6 +40,9 @@ td.td_DuyetItem table td{
 .dk_group_search{
 	overflow:hidden;padding-bottom:5px
 }
+a{
+	text-decoration: none !important;
+}
 .dk_TextTim{
 	float:left;padding-right:10px
 }
