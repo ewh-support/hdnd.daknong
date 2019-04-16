@@ -1105,6 +1105,9 @@ font-family:verdana,arial,helvetica,sans-serif;
 font-weight:bold;
 font-size:200%;
 }
+a{
+    text-decoration: none !important;
+}
 .ms-WPBody h2
 {
 font-weight:bold;

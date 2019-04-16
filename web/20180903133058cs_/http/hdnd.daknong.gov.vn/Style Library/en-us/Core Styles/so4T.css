@@ -220,6 +220,9 @@ p.hot-content1{
 	padding:8px 10px 0px 10px;
 	color:#fff;
 }
+a{
+	text-decoration: none !important;
+}
 div#UnionNews_menu_mode2 div.Union_block{
 	width:137px;
 	float:right;
