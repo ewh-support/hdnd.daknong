@@ -96,11 +96,11 @@ div.ms-PartSpacingVertical{
 	height: 37px;clear: both;overflow:hidden
 }
 .s4-title1{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/bannerR.png") repeat-x center top;	
+	background: url("/img/bannerR.png") repeat-x center top;	
 }
 .logoS{
 	height:106px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/banner.jpg") no-repeat 1px 0px;	
+	background: url("/img/banner.jpg") no-repeat 1px 0px;	
 }
 .ms-logo a{
 	text-indent:-9999px;
@@ -237,19 +237,19 @@ div.ms-menu{
 	background-image:none;
 }
 div.main-level{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/bgMenuVer.png") no-repeat left top;
+	background: url("/img/bgMenuVer.png") no-repeat left top;
 	line-height:37px;
 }
 /**/
 div.dangnhap{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/iconDN.png") no-repeat left center;
+	background: url("/imgge/iconDN.png") no-repeat left center;
 	padding:0px 30px 0px 20px;
 }
 div.dangnhap:hover{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/iconDNH.png") no-repeat left center;
+	background: url("/imgge/iconDNH.png") no-repeat left center;
 }
 .logoLink a{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/logoHCm.png") no-repeat left center;
+	background: url("/imgge/logoHCm.png") no-repeat left center;
 	text-indent:-9999px;
 	width:178px;
 	margin-top:11px;
@@ -257,7 +257,7 @@ div.dangnhap:hover{
 	display:block;
 }
 .logoLink a:hover{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/logoHCmH.png") no-repeat left center;
+	background: url("/imgge/logoHCmH.png") no-repeat left center;
 }
 .hLeft-LKimage{
 	margin-top:6px;
@@ -292,11 +292,11 @@ b.lv_description_mode1{
 	text-transform:uppercase;
 }
 .Other li {
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/dotG.gif") no-repeat left 6px;
+	background: url("/img/dotG.gif") no-repeat left 6px;
 	padding:0px 0px 8px 12px;
 }
 .Other li:hover{
-	background: url("../../../../../../20181219155921im_/http%253A/stnmt.daknong.gov.vn/imgSoTTTT/icon3.jpg") no-repeat left 6px;
+	/* background: url("../../../../../../20181219155921im_/http%253A/stnmt.daknong.gov.vn/imgSoTTTT/icon3.jpg") no-repeat left 6px; */
 }
 .Other li a, .Other li a:link {
 	text-decoration: none;
@@ -339,10 +339,10 @@ td.Other{
 	color:#d00;
 }
 .css_Xemtiep{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/xem.gif") no-repeat left top;
+	background: url("/imgge/xem.gif") no-repeat left top;
 }
 .css_Xemtiep:hover{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/xemH.gif") no-repeat left top;
+	background: url("/imgge/xemH.gif") no-repeat left top;
 }
 .css_bt_Xemtheongay {
 	width: 36px;
@@ -378,17 +378,17 @@ td.Other{
 	color:#d00!important;
 }
 a.return{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/nut-quay-lai.gif") no-repeat left 0px;	
+	background: url("/img/nut-quay-lai.gif") no-repeat left 0px;	
 	padding-left:20px;
 	margin-left:20px;
 }
 a.print{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/ico_print.gif") no-repeat left 0px;	
+	background: url("/img/ico_print.gif") no-repeat left 0px;	
 	padding-left:20px;
 }
 /***** footer *******/
 .footer{
-	background:#006fa8 url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/bgmenuF.png") repeat-x left top;
+	background:#006fa8 url("/img/bgmenuF.png") repeat-x left top;
 	height:160px;
 	overflow:hidden;		
 }
@@ -438,7 +438,7 @@ div#UnionNews_main_mode2, div#UnionNews_menu_mode2{
 table.lv_union_table_menuheader{
 	padding-left:10px;
 	height:31px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/menuTab.png") repeat-x left 0px;
+	background: url("/imgge/menuTab.png") repeat-x left 0px;
 }
 table.lv_union_table_menuheader td{
 	height:31px;
@@ -459,7 +459,7 @@ div.union_image_thumb ul{
 }
 div.union_image_thumb ul li{
 	padding:7px 5px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/borNews.png") repeat-x left top;
+	background: url("/imgge/borNews.png") repeat-x left top;
 }
 div.union_image_thumb ul li.firstflag{
 	background-image:none;
@@ -504,7 +504,7 @@ div.union_main_image img{
 }
 .union_image_thumb div.Union_block h2 a{
 	font-weight:normal;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat left 4px;
+	background: url("/imgge/icon2.jpg") no-repeat left 4px;
 	padding-left:10px;
 	display:block;
 }
@@ -555,7 +555,7 @@ div.union_main_image .Union_desc{
 }
 .htLeft .CMSThumbnail{
 	padding:10px 0px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soTTTTimage/bgTM.jpg") repeat-x center top;
+	background: url("/imgge/bgTM.jpg") repeat-x center top;
 }
 .container_mid_main_in1 table tr:first-child + tr td.CMSThumbnail{
 	background-image:none;
@@ -579,7 +579,7 @@ ul.ms-quickLaunch{
 	padding-top:0px;
 }
 .first-ms-navheader,.ms-navheader{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/titleTop.png") no-repeat center 1px;
+	background: url("/img/titleTop.png") no-repeat center 1px;
 	height:34px;
 	line-height:38px;
 	color:#fff;
@@ -611,7 +611,7 @@ div.first-ms-navheader a:hover,.div-link-navheader a:hover, .div-link-navheader 
 	width:226px;
 }
 .mnRight .first-ms-navheader{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/titleTopR.jpg") no-repeat center 1px;
+	background: url("/imgge/titleTopR.jpg") no-repeat center 1px;
 }
 .classshow .classshow{
 	padding:0px;
@@ -620,7 +620,7 @@ div.first-ms-navheader a:hover,.div-link-navheader a:hover, .div-link-navheader 
 	font-weight:bold;
 }
 .hLeft .div-leftsubmenu{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/icon1.jpg") no-repeat left 2px;
+	background: url("/imgge/icon1.jpg") no-repeat left 2px;
 	padding-left:20px;
 }
 div.div-leftsubmenu a, div.div-leftsubmenu a:link, div.div-leftsubmenu a:visited{
@@ -663,7 +663,7 @@ div.div-leftsubmenu a:hover{
     padding-left: 15px;
 }
 .navList ul li ul li ul li div.ms-navItem span, .navList ul li ul li ul li div.ms-navItem a {
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/dot-gray.gif") no-repeat 5px 4px;
+	background: url("/imgge/dot-gray.gif") no-repeat 5px 4px;
 	padding-left: 15px;
 	color: #6b6b6b;
 }
@@ -685,7 +685,7 @@ div.heading-hover,div.heading-hover span:hover,div.heading-hover span,div.headin
 }
 /**menu right**/
 .snRight .first-ms-navheader,.snRight .ms-navheader{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/titleR.jpg") no-repeat 1px 1px;	
+	background: url("/img/titleR.jpg") no-repeat 1px 1px;	
 	width:228px;
 	line-height:32px;
 }
@@ -733,7 +733,7 @@ div.heading-hover,div.heading-hover span:hover,div.heading-hover span,div.headin
 }
 .container_mid_main_in1 table td.LItem{
 	padding:5px 5px 5px 12px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat 0px 10px;
+	background: url("/imgge/icon2.jpg") no-repeat 0px 10px;
 }
 td.LItem a, td.LItem a:link, td.LItem a:visited{
 	color:#333;
@@ -752,7 +752,7 @@ td.LItem span{
 	width:220px;
 }
 .hRight .div_header_style1{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/titleR.jpg") no-repeat center 1px;
+	background: url("/imgge/titleR.jpg") no-repeat center 1px;
 }
 .thongbao .div_header_style1{
 	padding-top:8px;
@@ -816,7 +816,7 @@ div#ppy1 .ppy-nav{
 }
 /**** 1 cua ***/
 .lv-Motcua-title{
-	background:#fff url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/titleTopR.jpg") no-repeat 1px 1px;
+	background:#fff url("/imgge/titleTopR.jpg") no-repeat 1px 1px;
 	text-align:left!important;
 	color:#fff;
 	font:bold 12px arial;
@@ -899,7 +899,7 @@ tr.row_NoiDung td a:hover{
 	color:#d70000;
 	text-transform:uppercase;
 	font:bold 12px arial;	
-    background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/iconTitle.png") no-repeat scroll 10px top transparent;
+    background: url("/img/iconTitle.png") no-repeat scroll 10px top transparent;
 }
 table.dvBlockSearch-tb{
 	margin-bottom:10px;
@@ -976,7 +976,7 @@ div.div_loai{
 	clear:both;
 	overflow:hidden;
 	border-bottom:1px #61B2E0 solid;	
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/bgBor.jpg") repeat-y 360px top;	
+	background: url("/img/bgBor.jpg") repeat-y 360px top;	
 }
 .td_rowa{
 	background-color:#efefef;
@@ -1083,7 +1083,7 @@ table.table_ct tr.row_title td div.title_ct{
 	font-weight:bold;
 }
 .dv-tracuu-title{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/l-item-space.gif") repeat-x left bottom;
+	background: url("/img/l-item-space.gif") repeat-x left bottom;
 	padding-bottom:8px;
 }
 .td_ct2 a,.td_ct2 a:link,.td_ct2 a:visited{
@@ -1107,7 +1107,7 @@ TABLE.ds_tthc TD {
 	padding:5px;
 }
 .ds_VBPL .row_title td{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/bgTitle.jpg") repeat-x left bottom;
+	background: url("/img/bgTitle.jpg") repeat-x left bottom;
 	text-align:center;			
 }
 div.quaylai{
@@ -1343,7 +1343,7 @@ div.div-congbao img{
 	padding:5px 10px;
 }
 .ms-navItem a{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/icon1.jpg") no-repeat left 2px;
+	background: url("/imgge/icon1.jpg") no-repeat left 2px;
 	padding-left:20px;
 	display:block;
 	font-family:Arial;
@@ -1382,7 +1382,7 @@ div.ms-navItem a:hover{
 	overflow:hidden;
 }
 .main-1zone,.ttMain,.HomeTT,.gthieu,.allPost,.postMain,.l2zMain{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/borBox.png") repeat-x scroll left top #FFFFFF;
+	background: url("/img/borBox.png") repeat-x scroll left top #FFFFFF;
     border: 1px solid #DFDFDF;
     overflow: hidden;
 }
@@ -1418,14 +1418,14 @@ div.ms-navItem a:hover{
 	color:#fff!important;
 }
 .thongbao-detail td.LItem a,.thongbao-detail td.LItem a:link,.thongbao-detail td.LItem a:visited{
-	background:url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat 0px 5px;
+	background:url("/imgge/icon2.jpg") no-repeat 0px 5px;
 	padding-left:10px;
 }
 .thongbao-detail td.LItem{
 	padding-bottom:10px;text-align:justify
 }
 .container_top_left1{
-	background:url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/iconTitle.png") no-repeat left top;
+	background:url("/img/iconTitle.png") no-repeat left top;
 	padding-left:25px;
 	font-family:Arial;
 	font-size:12px;
@@ -1449,10 +1449,10 @@ div.ms-navItem a:hover{
 	border:1px #dfdfdf solid;
 	padding:15px;
 	overflow:hidden;
-	background:#fff url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/borBox.png") repeat-x left top;
+	background:#fff url("/img/borBox.png") repeat-x left top;
 }
 .lacviet-tabsnews .ui-tabs .ui-tabs-nav li.tabs-0 a,.container_top_left1{
-	background:url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/iconTitle.png") no-repeat left top;
+	background:url("/img/iconTitle.png") no-repeat left top;
 	padding-left:25px;
 }
 .news-tab-thumb-item-0{
@@ -1533,7 +1533,7 @@ div.news-tab-li-item a, div.news-tab-li-item a:link, div.news-tab-li-item a:visi
 	text-align:justify
 }
 div.news-tab-li-item a{
-	background: url("../../../../../../20181219155921im_/http%253A/stnmt.daknong.gov.vn/imgSoTTTT/icon3.jpg") no-repeat left 5px;
+	/* background: url("../../../../../../20181219155921im_/http%253A/stnmt.daknong.gov.vn/imgSoTTTT/icon3.jpg") no-repeat left 5px; */
 	padding-left:12px;
 }
 div.news-tab-li-item a:hover{
@@ -1555,7 +1555,7 @@ div.news-tab-li-item a:hover{
 }
 .news-tab-rss{
 	margin-right:15px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/rss.gif") no-repeat right center;
+	background: url("/img/rss.gif") no-repeat right center;
 	padding-right:20px;	
 }
 .news-tab-other div a, .news-tab-other div a:link, .news-tab-other div a:visited{
@@ -1568,7 +1568,7 @@ div.news-tab-li-item a:hover{
 	text-decoration:none;
 }
 .news-tab-xemtiep{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/more.gif") no-repeat right center;
+	background: url("/img/more.gif") no-repeat right center;
 	padding-right:10px;	
 }
 /*** tin chuyen muc - tin tuc ***/
@@ -1618,7 +1618,7 @@ td.TitleFront a:hover{
 	height:90px!important;	
 }
 .container_mid_main_in1 table td.LItem{
-	background: url("../../../../../../20181219155921im_/http%253A/stnmt.daknong.gov.vn/imgSoTTTT/icon3.jpg") no-repeat 0px 10px;
+	/* background: url("../../../../../../20181219155921im_/http%253A/stnmt.daknong.gov.vn/imgSoTTTT/icon3.jpg") no-repeat 0px 10px; */
 }
 .rssNext{
 	float:right;
@@ -1711,7 +1711,7 @@ div.videobox-title a:hover{
 	font-size:12px;
 	color:#555;
 	padding:10px 10px 0px 15px;
-	background:url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/images/iconTabNew.png") no-repeat scroll 5px 15px transparent;
+	background:url("/img/images/iconTabNew.png") no-repeat scroll 5px 15px transparent;
 	cursor:pointer
 }
 .mediaItems{
@@ -1732,7 +1732,7 @@ div.videobox-title a:hover{
 	border:1px #dfdfdf solid;
 }
 table.ds_VBPL .td_vanbanmoi{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/titleR.jpg") no-repeat 1px 1px;
+	background: url("/img/titleR.jpg") no-repeat 1px 1px;
 	line-height:20px;
 	font:bold 12px arial;
 	text-transform:uppercase;
@@ -1741,7 +1741,7 @@ table.ds_VBPL .td_vanbanmoi{
 	text-align:center;
 }
 .titleVBM{
-	background: url('http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/title-2.png' ) no-repeat 10px top;
+	background: url('/img/title-2.png' ) no-repeat 10px top;
 	padding-left:0px;
 	height:auto;
 	line-height:normal;
@@ -1845,7 +1845,7 @@ div.divvbm_xemchitiet{
 }
 
 .layout-grid td.demos {
-	background: url('http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/images/demos_bg.jpg') no-repeat;
+	background: url('/imgmos_bg.jpg') no-repeat;
 	height: 337px;
 	overflow: hidden;
 }
@@ -2057,7 +2057,7 @@ img.txb_css{
 }
 div.ui-tabs div.contenttab1 li, div.ui-tabs div.contenttab2 li{
 	padding:5px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/dotG.gif") no-repeat 10px 10px;
+	background: url("/img/dotG.gif") no-repeat 10px 10px;
 	padding-left:20px;
 }
 .contenttab2{
@@ -2093,26 +2093,26 @@ div.pagination .current{
 	color:#d00;
 }
 div.pagination .prev{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/prev2.jpg") no-repeat left -2px;
+	background: url("/img/prev2.jpg") no-repeat left -2px;
 	padding-left:11px;
 }
 div.pagination .prev:hover{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/prevH.jpg") no-repeat left -2px;
+	background: url("/img/prevH.jpg") no-repeat left -2px;
 }
 div.pagination .prev.current{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/prev1.jpg") no-repeat left -2px;
+	background: url("/img/prev1.jpg") no-repeat left -2px;
 	color:#999;
 	cursor:default;
 }
 div.pagination .next{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/next2.jpg") no-repeat right -2px;
+	background: url("/img/next2.jpg") no-repeat right -2px;
 	padding-right:11px;
 }
 div.pagination .next:hover{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/nextH.jpg") no-repeat right -2px;
+	background: url("/img/nextH.jpg") no-repeat right -2px;
 }
 div.pagination .next.current{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/next1.jpg") no-repeat right -2px;
+	background: url("/img/next1.jpg") no-repeat right -2px;
 	color:#999;
 	cursor:default;
 }
@@ -2157,7 +2157,7 @@ ui-tabs .ui-tabs-panel {
 	margin-bottom:10px;
 }
 .vd-icon-title {
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/ico_print.gif") no-repeat scroll left top transparent;
+	background: url("/img/ico_print.gif") no-repeat scroll left top transparent;
 	color: #686868;
 	cursor: pointer;
 	padding: 1px 12px 4px 18px;
@@ -2166,7 +2166,7 @@ ui-tabs .ui-tabs-panel {
 .vd-icon-title:hover{
 	color: #d00!important;
 	text-decoration:none;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/ico_printH.gif") no-repeat scroll left top transparent;
+	background: url("/img/ico_printH.gif") no-repeat scroll left top transparent;
 }
 .vd-part2{
 	clear:both;
@@ -2226,7 +2226,7 @@ img.abc2{
 	margin-top: 4px;
 }
 .treeview .hitarea {
-	background: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-default.gif) -64px -25px no-repeat;
+	background: url(/img/treeview-default.gif) -64px -25px no-repeat;
 	height: 16px;
 	width: 16px;
 	margin-left: -16px;
@@ -2246,28 +2246,28 @@ img.abc2{
 }
 #treecontrol { margin: 1em 0; display: none; }
 .treeview .hover { color: red; cursor: pointer; }
-.filetree li { background: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-default-line.gif) 0 0 no-repeat; }
+.filetree li { background: url(/img/treeview-default-line.gif) 0 0 no-repeat; }
 .treeview li.collapsable, .treeview li.expandable { background-position: 0 -176px; }
 .treeview .expandable-hitarea { background-position: -80px -3px; }
 .treeview li.last { background-position: 0 -1766px }
-.treeview li.lastCollapsable, .treeview li.lastExpandable { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-default.gif); }  
+.treeview li.lastCollapsable, .treeview li.lastExpandable { background-image: url(/img/treeview-default.gif); }  
 .treeview li.lastCollapsable { background-position: 0 -111px }
 .treeview li.lastExpandable { background-position: -32px -67px }
 .treeview div.lastCollapsable-hitarea, .treeview div.lastExpandable-hitarea { background-position: 0; }
-.treeview-red li { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-red-line.gif); }
-.treeview-red .hitarea, .treeview-red li.lastCollapsable, .treeview-red li.lastExpandable { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-red.gif); } 
-.treeview-black li { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-black-line.gif); }
-.treeview-black .hitarea, .treeview-black li.lastCollapsable, .treeview-black li.lastExpandable { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-black.gif); }  
-.treeview-gray li { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-gray-line.gif); }
-.treeview-gray .hitarea, .treeview-gray li.lastCollapsable, .treeview-gray li.lastExpandable { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-gray.gif); } 
-.treeview-famfamfam li { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-famfamfam-line.gif); }
-.treeview-famfamfam .hitarea, .treeview-famfamfam li.lastCollapsable, .treeview-famfamfam li.lastExpandable { background-image: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/treeview-famfamfam.gif); } 
+.treeview-red li { background-image: url(/img/treeview-red-line.gif); }
+.treeview-red .hitarea, .treeview-red li.lastCollapsable, .treeview-red li.lastExpandable { background-image: url(/img/treeview-red.gif); } 
+.treeview-black li { background-image: url(/img/treeview-black-line.gif); }
+.treeview-black .hitarea, .treeview-black li.lastCollapsable, .treeview-black li.lastExpandable { background-image: url(/img/treeview-black.gif); }  
+.treeview-gray li { background-image: url(/img/treeview-gray-line.gif); }
+.treeview-gray .hitarea, .treeview-gray li.lastCollapsable, .treeview-gray li.lastExpandable { background-image: url(/img/treeview-gray.gif); } 
+.treeview-famfamfam li { background-image: url(/img/treeview-famfamfam-line.gif); }
+.treeview-famfamfam .hitarea, .treeview-famfamfam li.lastCollapsable, .treeview-famfamfam li.lastExpandable { background-image: url(/img/treeview-famfamfam.gif); } 
 .filetree li { padding: 3px 0 2px 16px; }
 .filetree div.folder, .filetree span.file { padding: 1px 0 1px 16px; display: block; }
-.filetree div.folder { background: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/folder-icon2.png) 0 0 no-repeat;width:100%;height:40px;padding-top:15px;padding-left:45px;margin-top:-10px }
-.filetree li.expandable span.folder { background: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/folder-closed.gif) 0 0 no-repeat; }
-.filetree div.file { background: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/folder-icon-level2.jpg) no-repeat left 5px; height:30px;padding-top:6px;padding-left:25px;margin-top:-10px;width:100%  }
-.filetree div.item { background: url(http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/Paper-Clip-icon.png) 0 0 no-repeat; height:20px;padding-top:5px;padding-left:23px;margin-top:-5px;width:100%  }
+.filetree div.folder { background: url(/img/folder-icon2.png) 0 0 no-repeat;width:100%;height:40px;padding-top:15px;padding-left:45px;margin-top:-10px }
+.filetree li.expandable span.folder { background: url(/img/folder-closed.gif) 0 0 no-repeat; }
+.filetree div.file { background: url(/img/folder-icon-level2.jpg) no-repeat left 5px; height:30px;padding-top:6px;padding-left:25px;margin-top:-10px;width:100%  }
+.filetree div.item { background: url(/img/Paper-Clip-icon.png) 0 0 no-repeat; height:20px;padding-top:5px;padding-left:23px;margin-top:-5px;width:100%  }
 .dvnduy-sitemap a:hover{
 	text-decoration:none;
 }
@@ -2423,7 +2423,7 @@ div.srch-Page{
 }
 .tieudiem_title{
 	padding: 15px 0px 0px 20px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/borBox.png") repeat-x scroll left top #FFFFFF;
+	background: url("/img/borBox.png") repeat-x scroll left top #FFFFFF;
 }
 .tieudiem_title a{
 	text-transform:uppercase;
@@ -2476,7 +2476,7 @@ div.srch-Page{
 }
 .WeatherForecast .wf-title{
 	margin-top:5px;
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/titleTop.png") no-repeat center 1px;
+	background: url("/img/titleTop.png") no-repeat center 1px;
 	height:34px;
 	line-height:38px;
 	padding-left:38px;	
@@ -2497,7 +2497,7 @@ div.srch-Page{
 	margin-left:1px;
 }
 .wf-selected-zone{
-	background: url("http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/imgSoTTTT/thoitiet.png") no-repeat center 1px;
+	background: url("/img/thoitiet.png") no-repeat center 1px;
 	height:20px;
 }
 .WeatherForecast .wf-city{
@@ -2536,7 +2536,7 @@ div.srch-Page{
 	float:right;
 	width:80px;
 	text-align:right;
-	background:url('http://web.archive.org/web/20181219155921im_/http://stnmt.daknong.gov.vn/SiteAssets/images/fgimg.png') 10px 1px no-repeat;
+	background:url('/imgs/images/fgimg.png') 10px 1px no-repeat;
 	color:#0072BC;
 	font-weight:bold;
 }

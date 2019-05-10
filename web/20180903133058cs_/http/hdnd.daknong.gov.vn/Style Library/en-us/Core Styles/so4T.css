@@ -33,7 +33,7 @@ div.footer{
 	height:235px;
 }
 .tnbLeft #WebPartWPQ17 .lacviet-tabsnews .news-tab-thumb div.news-tab-li-item div a {
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/iconTabNew.gif") no-repeat left 3px;
+	background: url("/img/iconTabNew.gif") no-repeat left 3px;
 	color:#0069ab;
 	height:30px;
 	overflow:hidden;
@@ -126,12 +126,12 @@ div.snCenter{
 div.snRight{
 	width:220px;
 }
-li div.main-level{
+/* li div.main-level{
 	background: url("/img/hdnd/iconMenu.png") no-repeat 38px center;	
 }
 li.LvSelected div.main-level{
 	background: url("/img/hdnd/iconMenuOn.png") no-repeat 38px center;	
-}
+} */
 li div.main-level{
 	line-height:28px;
 }
@@ -242,7 +242,7 @@ div#UnionNews_menu_mode2 div.union_image_thumb ul li{
 	background-image:none;
 }
 div#UnionNews_menu_mode2 table.lv_union_table_menuheader{
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/bgmenuHot1.png") repeat 0 0;
+	/* background: url("/img/bgmenuHot1.png") repeat 0 0; */
 	height:29px;
 	padding-left:0px;
 }
@@ -252,7 +252,7 @@ div#UnionNews_menu_mode2 table.lv_union_table_menuheader td{
 	padding-top:0px;
 }
 .lv_union_table_menuheader td.lv_menuheader_first.tabselected{
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/bgmenuHotOnL1.png") repeat 0 0!important;
+	/* background: url("/img/bgmenuHotOnL1.png") repeat 0 0!important; */
 	width:115px;
 	text-align:left;
 	padding-left:25px;
@@ -262,7 +262,7 @@ table.lv_union_table_menuheader td.lv_menuheader_last{
 	text-align:left;
 }
 .lv_union_table_menuheader td.lv_menuheader_last.tabselected{
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/bgmenuHotOnR1.png") repeat right 0!important;
+	/* background: url("/img/bgmenuHotOnR1.png") repeat right 0!important; */
 	width:140px;
 	text-align:center;
 	color:#333!important;
@@ -295,7 +295,7 @@ div.thongbao div.container_top_left1{
 }
 div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link{
 	color:#333;
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/iconTB1.png") no-repeat 0 2px;
+	/* background: url("/img/iconTB1.png") no-repeat 0 2px; */
 	padding-left:18px;
 	display:block;
 }
@@ -319,7 +319,7 @@ div.tieudiem_title a,div.tieudiem_title a:link, div.tieudiem_title a:visited{
 div.lv_topnews_mode3_divContainer{
 	border:1px #8bc8eb solid;
 	min-height:100px;
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/bg-tieudiem.png") repeat-x left top
+	background: url("/img/bg-tieudiem.png") repeat-x left top
 }
 li.lv_topnews_mode3_ul_li{
 	width:145px;
@@ -343,7 +343,7 @@ li div.lv_topnews_mode3_ul_li_divTitle a:link{
 }
 td.ms-sbcell{
 	width:204px;
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/bgSearch.png") no-repeat left top;
+	/* background: url("/img/bgSearch.png") no-repeat left top; */
 	height:26px;
 }
 td.ms-sbgo.ms-sbcell{
@@ -359,7 +359,7 @@ table.ms-sbtable td.ms-sbcell input{
 }
 td.ms-sbgo.ms-sbcell{
 	width:31px;
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/sGo.png") no-repeat left top;
+	/* background: url("/img/sGo.png") no-repeat left top; */
 	height:26px;
 	border:0px;
 }
@@ -398,7 +398,7 @@ div.lacviet-tabsnews div.ui-tabs ul.ui-tabs-nav li.tabs-0 a{
 }
 ul.ui-tabs-nav li{
 	border-left:0px;
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/tabBor.jpg") no-repeat left center;
+	background: url("/img/tabBor.jpg") no-repeat left center;
 }
 ul.ui-tabs-nav li.ui-state-default a:link{
 	color:#fff;
@@ -576,7 +576,7 @@ div.searchLB{
 	margin-top:10px;
 }
 div.lv-pst-xtn-dp{
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/inputDate.png") no-repeat 0 0;
+	background: url("/img/inputDate.png") no-repeat 0 0;
 	width:178px;
 	height:24px;
 }
@@ -595,7 +595,7 @@ div.lv-pst-xtn-dp input#datepicker{
 	padding-left:5px;
 }
 .lv-pst-xtn-btn input{
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/btmXem.png") no-repeat 0 0;
+	background: url("/img/btmXem.png") no-repeat 0 0;
 	width:56px;
 	height:24px;
 	display:block;
@@ -614,11 +614,11 @@ div.lv-pst-xtn-t{
 	padding-bottom:10px;
 }
 td.Other li{
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/dotNews1.png") no-repeat 0 5px;
+	background: url("/img/dotNews1.png") no-repeat 0 5px;
 	padding-left:16px;
 }
 td.Other li:hover{
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/dotNews1.png") no-repeat 0 5px;
+	background: url("/img/dotNews1.png") no-repeat 0 5px;
 }
 div.container_top_mid2, .snCenter div.container_top_left1{
 	background: url("/img/hdnd/tdTitle.jpg") repeat-x 0 0;
@@ -706,7 +706,7 @@ ul.classhide{
 	display:none;
 }
 ul.classshow ul.classshow a.leftsubmenu, ul.classshow ul.classshow div.div-leftsubmenu span{
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/iconTabNew.png") no-repeat left 3px!important;	
+	background: url("/img/iconTabNew.png") no-repeat left 3px!important;	
 	color:#005e98!important;
 }
 div.navList div.ms-navItem a{
@@ -777,17 +777,17 @@ li.LvSelected{
 }
 ul#topnav ul.children{
 	margin-left:40px;
-	background:transparent url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/bgmenuXo.png") no-repeat 0 bottom;
+	/* background:transparent url("/img/bgmenuXo.png") no-repeat 0 bottom; */
 	padding-bottom:12px;
 }
 ul#topnav ul.children li a{
 	border-bottom:0px;
 	border-bottom:0px;
-	background:url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/iconTabNew.png") no-repeat 10px 11px;
+	background:url("/img/iconTabNew.png") no-repeat 10px 11px;
 	line-height:32px;
 }
 ul#topnav ul.children li a:hover{
-	background:url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/iconTabNewH.png") no-repeat 10px 11px;
+	background:url("/img/iconTabNewH.png") no-repeat 10px 11px;
 }
 ul#topnav ul.children li a, ul#topnav ul.children li a:link, ul#topnav ul.children li a:visited{
 	color:#005e99;	
@@ -800,7 +800,7 @@ ul#topnav ul.children li a{
 	padding-top:0px;
 }
 ul.two-column li{
-	background:url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/menuXobor.jpg") no-repeat 10px top!important;
+	background:url("/img/menuXobor.jpg") no-repeat 10px top!important;
 	overflow:hidden;
 }
 ul.two-column:first-child li{
@@ -818,7 +818,7 @@ div.div_loaihtvb{
 
 /**So Luot Truy Cap**/
 .main-hit {
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/bg-truycap.jpg") no-repeat left top;
+	background: url("/img/bg-truycap.jpg") no-repeat left top;
 	width: 220px;
 	height: 110px;
 	margin-bottom:10px;
@@ -951,7 +951,7 @@ img.txb_css{
 }
 div#s4-bodyContainer div.div_gopy td input[type=submit]{
 	color:#fff;
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/btmGopy.png") no-repeat 0 0;
+	background: url("/img/btmGopy.png") no-repeat 0 0;
 	width:78px;
 	height:24px;
 	line-height:24px;
@@ -972,7 +972,7 @@ td.OtherTitle{
 }
 #UnionNews_main_mode2 .Union_block{
 	height:133px;	
-	background: url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/bgDes1.png") no-repeat 0 bottom;
+	/* background: url("/img/bgDes1.png") no-repeat 0 bottom; */
 }
 .hot-content1{
 	line-height:18px;
@@ -988,12 +988,12 @@ div.button-link{
 	width:460px;
 }
 table.table_ct .row_title td{
-	background:url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/titleTT.jpg") no-repeat 0px top;	
+	background:url("/img/titleTT.jpg") no-repeat 0px top;	
 	padding-top:40px;
 	border-top:0px;
 }
 .allPost table.table_ct .row_title td{
-	background:url("../../../../../../20180928043929im_/http%253A/hdnd.daknong.gov.vn/imgSoTTTT/images/titleVB.jpg") no-repeat 0px top;	
+	background:url("/img/titleVB.jpg") no-repeat 0px top;	
 }
 table.table_nhapVB{
 	margin-bottom:10px;
