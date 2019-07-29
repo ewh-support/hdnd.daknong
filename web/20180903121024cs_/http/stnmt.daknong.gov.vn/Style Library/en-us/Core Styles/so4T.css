@@ -64,7 +64,7 @@ div.dRight{
 /***/
 div.logoS{
 	height:141px;
-	background: url("/img/hdnd/banner.png") no-repeat 0 0;	
+	/* background: url("/img/hdnd/banner.png") no-repeat 0 0;	 */
 }
 div.ms-logo a{
 	text-indent:-9999px;
