@@ -343,7 +343,7 @@ li div.lv_topnews_mode3_ul_li_divTitle a:link{
 }
 td.ms-sbcell{
 	width:204px;
-	/* background: url("/img/bgSearch.png") no-repeat left top; */
+	background: url("/img/bgSearch.png") no-repeat left top;
 	height:26px;
 }
 td.ms-sbgo.ms-sbcell{
@@ -359,7 +359,7 @@ table.ms-sbtable td.ms-sbcell input{
 }
 td.ms-sbgo.ms-sbcell{
 	width:31px;
-	/* background: url("/img/sGo.png") no-repeat left top; */
+	background: url("/img/sGo.png") no-repeat left top;
 	height:26px;
 	border:0px;
 }
